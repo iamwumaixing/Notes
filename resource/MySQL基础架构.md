@@ -1,6 +1,6 @@
 #### MySQL基础架构
 
-![](https://github.com/iamwumaixing/ImageStorage/blob/master/mysql.png)
+![](https://i.loli.net/2020/06/12/KvUbrCxFtnW7q9H.png)
 
 **第一层：连接/线程处理**
 
