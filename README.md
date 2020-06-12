@@ -6,5 +6,5 @@
 
 **博客和笔记都迁移到了语雀：**
 
-[]: https://www.yuque.com/marco-iupir/wuya
+https://www.yuque.com/marco-iupir/wuya
 
